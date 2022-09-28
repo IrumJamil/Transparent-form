@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    background-image: url('s33.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 620px;
+}
+h1{
+    text-align: center;
+    color: white;
+    padding-top: 15px;
+}
+.cen{
+    margin-left: 40px;
+}
+h2,h4{
+   margin: 7px 0px; 
+}
+.part1{
+    margin: 13px 470px 0px 470px;
+    padding: 20px;
+    color: whitesmoke;
+    border-style: dashed double dashed;
+}
+.btn{
+    font-size: 15px;
+    border-radius: 7px;
+    border-color: pink;
+    padding: 4px;
+}
